@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-resumable-media/#history
 
+## [0.6.0](https://www.github.com/googleapis/google-resumable-media-python/compare/v0.5.1...v0.6.0) (2020-06-11)
+
+
+### Features
+
+* add templates for python samples projects ([#506](https://www.github.com/googleapis/google-resumable-media-python/issues/506)) ([#132](https://www.github.com/googleapis/google-resumable-media-python/issues/132)) ([8e60cc4](https://www.github.com/googleapis/google-resumable-media-python/commit/8e60cc45d4fefe63d7353e978d15d6e238b7a1a1))
+
 ### [0.5.1](https://www.github.com/googleapis/google-resumable-media-python/compare/v0.5.0...v0.5.1) (2020-05-26)
 
 
